@@ -8,6 +8,12 @@ Welcome to my GitHub profile. I'm a passionate developer with a love for technol
 
 - 🐍 I'm also into **Python**, a versatile language that I use for various projects and automation tasks.
 
+### 📈 Most Used Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias970&layout=compact&theme=dark)](https://github.com/Elias970)
+
+
+
 ### 🌟 Cool Features:
 
 - 🎨 Crafting pixel-perfect user interfaces with HTML, CSS, and JavaScript.
@@ -20,8 +26,5 @@ Welcome to my GitHub profile. I'm a passionate developer with a love for technol
 ### 📊 GitHub Stats:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elias970&show_icons=true&theme=dark)](https://github.com/Elias970)
-### 📈 Most Used Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias970&layout=compact&theme=dark)](https://github.com/Elias970)
 
 Let's code the future together! 😄
