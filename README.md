@@ -8,9 +8,9 @@ Welcome to my GitHub profile. I'm a passionate developer with a love for technol
 
 - 🐍 I'm also into **Python**, a versatile language that I use for various projects and automation tasks.
 
-### 📈 Most Used Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias970&layout=compact&theme=dark)](https://github.com/Elias970)
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Elias970&theme=dark)
 
 
 
@@ -22,9 +22,11 @@ Welcome to my GitHub profile. I'm a passionate developer with a love for technol
 - 🐍 Automating tasks and solving problems with Python.
 - 🚀 Continuously learning and staying up-to-date with the latest in tech.
 
+### 📈 Most Used Languages:
 
-### 📊 GitHub Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias970&layout=compact&theme=dark)](https://github.com/Elias970)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elias970&show_icons=true&theme=dark)](https://github.com/Elias970)
+
+
 
 Let's code the future together! 😄
